@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 2.8)
 
-project ("msdata")
+project ("msdata_snapshot")
 
 message ("If KurentoHelpers is not found, then it is necessary to install
           kms-cmake-utils package from the kurento repository")
@@ -43,7 +43,7 @@ pkg_check_modules(OPENCV REQUIRED opencv>=${OPENCV_REQUIRED})
 
 set (VERSION ${PROJECT_VERSION})
 set (PACKAGE ${PROJECT_NAME})
-set (GETTEXT_PACKAGE "msdata")
+set (GETTEXT_PACKAGE "msdata_snapshot")
 
 include(GNUInstallDirs)
 

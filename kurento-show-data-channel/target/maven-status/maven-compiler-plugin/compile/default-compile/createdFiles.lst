@@ -1,0 +1,9 @@
+org/kurento/tutorial/showdatachannel/UserSession.class
+org/kurento/module/MsdataModuleInfo.class
+org/kurento/tutorial/showdatachannel/ShowDataChannelHandler$1.class
+org/kurento/module/msdata/KmsShowData$Builder.class
+org/kurento/module/msdata/MsData.class
+org/kurento/module/msdata/MsData$Builder.class
+org/kurento/tutorial/showdatachannel/ShowDataChannelApp.class
+org/kurento/module/msdata/KmsShowData.class
+org/kurento/tutorial/showdatachannel/ShowDataChannelHandler.class

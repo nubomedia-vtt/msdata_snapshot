@@ -1,0 +1,2 @@
+/usr/bin/ar cr libkmsmsdatainterface.a  CMakeFiles/kmsmsdatainterface.dir/interface/generated-cpp/KmsShowDataInternal.cpp.o CMakeFiles/kmsmsdatainterface.dir/interface/generated-cpp/MsDataInternal.cpp.o CMakeFiles/kmsmsdatainterface.dir/interface/generated-cpp/KmsShowData.cpp.o CMakeFiles/kmsmsdatainterface.dir/interface/generated-cpp/MsData.cpp.o
+/usr/bin/ranlib libkmsmsdatainterface.a

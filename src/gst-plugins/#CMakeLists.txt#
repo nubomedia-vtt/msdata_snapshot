@@ -1,3 +1,4 @@
+
 include_directories(
   ${KmsGstCommons_INCLUDE_DIRS}
   ${GSTREAMER_INCLUDE_DIRS}
@@ -10,7 +11,7 @@ set(MSDATA_SOURCES
   msdata.c
   gstmsdata.cpp
   gstmsdata.h
-  kmsshowdata.cpp
+  kmsshowdata.c
   kmsshowdata.h
  kmsgraphsmetadata.cpp
  kmsgraphsmetadata.h

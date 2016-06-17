@@ -1,6 +1,22 @@
 {
   "remoteClasses": [
     {
+      "name": "KmsShowData",
+      "extends": "MediaElement",
+      "doc": "KmsShowData interface. Documentation about the module",
+      "constructor": {
+        "doc": "Create an element",
+        "params": [
+          {
+            "name": "mediaPipeline",
+            "doc": "the parent :rom:cls:`MediaPipeline`",
+            "type": "MediaPipeline",
+            "final": true
+          }
+        ]
+      }
+    },
+    {
       "name": "MsData",
       "extends": "Filter",
       "doc": "MsData interface. Documentation about the module",

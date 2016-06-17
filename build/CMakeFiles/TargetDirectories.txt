@@ -1,0 +1,4 @@
+/home/tteyli/nubo_v6.5/msdata_snapshot/build/src/server/CMakeFiles/kmsmsdataimpl.dir
+/home/tteyli/nubo_v6.5/msdata_snapshot/build/src/server/CMakeFiles/kmsmsdatainterface.dir
+/home/tteyli/nubo_v6.5/msdata_snapshot/build/src/server/CMakeFiles/kmsmsdatamodule.dir
+/home/tteyli/nubo_v6.5/msdata_snapshot/build/src/gst-plugins/CMakeFiles/msdata.dir

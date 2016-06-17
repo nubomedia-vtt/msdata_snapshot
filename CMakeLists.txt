@@ -41,6 +41,14 @@ pkg_check_modules(GSTREAMER_CHECK REQUIRED gstreamer-check-1.5>=${GST_REQUIRED})
 pkg_check_modules(KMSCORE REQUIRED kmscore)
 pkg_check_modules(OPENCV REQUIRED opencv>=${OPENCV_REQUIRED})
 
+#generic_find (LIBNAME gstreamer-1.5 VERSION ${GST_REQUIRED} REQUIRED)
+#generic_find (LIBNAME gstreamer-base-1.5 VERSION ${GST_REQUIRED} REQUIRED)
+#generic_find (LIBNAME gstreamer-video-1.5 VERSION ${GST_REQUIRED} REQUIRED)
+#generic_find (LIBNAME gstreamer-check-1.5 VERSION ${GST_REQUIRED} REQUIRED)
+generic_find (LIBNAME KmsGstCommons REQUIRED)
+#generic_find (LIBNAME opencv VERSION ${OPENCV_REQUIRED} REQUIRED)
+
+
 set (VERSION ${PROJECT_VERSION})
 set (PACKAGE ${PROJECT_NAME})
 set (GETTEXT_PACKAGE "msdata_snapshot")

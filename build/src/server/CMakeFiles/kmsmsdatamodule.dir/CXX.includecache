@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/tteyli/nubo_v6.5/msdata_snapshot/build/src/server/module_descriptor.cpp
+string
+-
+msdata.kmd.json
+/home/tteyli/nubo_v6.5/msdata_snapshot/build/src/server/msdata.kmd.json
+
+/home/tteyli/nubo_v6.5/msdata_snapshot/build/src/server/module_generation_time.cpp
+
+/home/tteyli/nubo_v6.5/msdata_snapshot/build/src/server/module_name.cpp
+
+/home/tteyli/nubo_v6.5/msdata_snapshot/build/src/server/module_version.cpp
+
+/home/tteyli/nubo_v6.5/msdata_snapshot/build/src/server/msdata.kmd.json
+
